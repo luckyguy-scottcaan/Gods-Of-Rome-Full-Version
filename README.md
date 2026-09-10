@@ -236,4 +236,4 @@ This repository serves as the official landing page for **Gods of Rome**. The so
 **Get the most recent version of Gods of Rome today!**
 
 ---
-**Last updated:** 2026-09-10 15:47:40 UTC
+**Last updated:** 2026-09-10 18:48:57 UTC
